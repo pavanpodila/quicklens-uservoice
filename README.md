@@ -1,5 +1,5 @@
 # quicklens-uservoice
-Track all requests to improve [QuickLens](http://www.quicklensapp.com)
+Track all requests to improve [QuickLens](https://quicklens.app)
 
 Please log all requests on the [Issues](https://github.com/pavanpodila/quicklens-uservoice/issues) page.
 
